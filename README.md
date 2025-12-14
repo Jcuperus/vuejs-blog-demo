@@ -1,6 +1,6 @@
-# vue-demo
+# vue blog demo
 
-> A Vue.js demo project
+A project I wrote for a bootcamp to teach beginning programmers how to use the vue framework. This application demonstrates all CRUD operations and lets a user login using a simple token based authentication method. A backend was also provided at https://github.com/Jcuperus/vuejs-demo-laravel
 
 ## Build Setup
 
